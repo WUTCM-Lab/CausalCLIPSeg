@@ -1,2 +1,2 @@
 # CausalCLIPSeg
-Code is coming soon.
+The official code of CausalCLIPSeg.
